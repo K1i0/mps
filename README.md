@@ -41,6 +41,8 @@ $duration=T/2$
 
 > В реализации простейшего синтезатора используется встроенная функция tone(pin, freq, duration?), позволяющая генерировать тон с заданной частотой, на протяжении определенного количества времени. Документация доступна [тут](https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/)
 
+![Screenshot of a simple synthesizer](img/simple_synthesizer_model.png)
+
 [^1]: [Форматирование Markdown Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 [^2]: Материалы по программированию Arduino [тут](https://all-arduino.ru/programmirovanie-arduino/).
